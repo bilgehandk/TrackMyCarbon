@@ -16,10 +16,13 @@ CO2Capture is a React Native application built using [Expo](https://expo.dev/). 
    git clone <repository-url>
 
 <!-- Navigate to the project directory -->
-cd TrackCo2
+   ```bash
+   cd TrackCo2
 
 <!-- Install dependencies -->
-npm install
+   ```bash
+   npm install
 
 <!-- Start the development server -->
-expo start
+   ```bash
+   expo start
