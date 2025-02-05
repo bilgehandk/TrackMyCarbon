@@ -24,6 +24,5 @@ CO2Capture is a React Native application built using [Expo](https://expo.dev/). 
    npm install
 
 4. Start the development server:
-<!-- Start the development server -->
    ```bash
    expo start
